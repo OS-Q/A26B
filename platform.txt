@@ -1,4 +1,4 @@
-name=gd32varduino
+name=gd32v
 version=1.0.0
 
 # Compile variables
