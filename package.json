@@ -2,5 +2,5 @@
     "name": "framework-N25",
     "description": "Arduino Wiring-based Framework (GD32V Core)",
     "version": "1.0.0",
-    "url": "https://github.com/sipeed/Maixduino"
+    "url": "https://github.com/OS-Q/N25"
 }

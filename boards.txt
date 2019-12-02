@@ -38,7 +38,7 @@ nano.upload.tool=serial
 
 ## Limit is the 128KiB Flash. Assume half is used for something else.
 nano.upload.maximum_size=65536
-nano.build.ldscript={runtime.platform.path}/cores/arduino/gd32vfl/RISCV/env_Eclipse/GD32VF103x8.lds
+nano.build.ldscript={runtime.platform.path}/cores/arduino/GD32VF103_Firmware_Library/RISCV/env_Eclipse/GD32VF103x8.lds
 
 
 ##################################################
@@ -77,5 +77,5 @@ eval.upload.tool=gdlink
 
 ## Limit is the 128KiB Flash. Assume half is used for something else.
 eval.upload.maximum_size=65536
-eval.build.ldscript={runtime.platform.path}/cores/arduino/gd32vfl/RISCV/env_Eclipse/GD32VF103xB.lds
+eval.build.ldscript={runtime.platform.path}/cores/arduino/GD32VF103_Firmware_Library/RISCV/env_Eclipse/GD32VF103xB.lds
 
