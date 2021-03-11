@@ -1,18 +1,13 @@
-﻿# [Framework N25](https://github.com/OS-Q/N25)
+# [A25A](https://github.com/OS-Q/A25A)
 
 [![sites](http://182.61.61.133/link/resources/OSQ.png)](http://www.OS-Q.com)
 
-#### 关于系统架构：[OS-Q](https://github.com/OS-Q)
-#### 归属边缘体系：[EDGE-Q](https://github.com/EDGE-Q)
+[![Build Status](https://github.com/OS-Q/A25A/workflows/ubuntu/badge.svg)](https://github.com/OS-Q/A25A/actions/workflows/ubuntu.yml)
+[![Build Status](https://github.com/OS-Q/A25A/workflows/windows/badge.svg)](https://github.com/OS-Q/A25A/actions/workflows/windows.yml)
+[![Build Status](https://github.com/OS-Q/A25A/workflows/PlatformIO/badge.svg)](https://github.com/OS-Q/A25A/actions/workflows/platformio.yml)
 
-[EDGE-Q](https://github.com/OS-Q/EDGE-Q) -> Q[4] -> M[12] -> W[52] -> D[365] -> H[24] -> N[60] -> S[60]
+### [简介](https://github.com/OS-Q/A25A/wiki)
 
-### [Framework描述](https://github.com/OS-Q/N25/wiki) 
+[A25A](https://github.com/OS-Q/A25A) 整合 [Arduino](https://github.com/sipeed/Longduino) 资源
 
-[Framework N25](https://github.com/OS-Q/N25)  附属于[ Platform  H4](https://github.com/OS-Q/H4) ，用于RISC-V内核平台[GD32V](https://github.com/sochub/GD32V) arduino框架开发。
-
-说明：本库针对自动化导入编程进行项目优化，会牺牲部分可阅读性，学习使用[GD32V](https://github.com/sochub/GD32V) arduino内核使用，请查看工程 
-https://github.com/sipeed/Maixduino
-
-### [OS-Q = Open Solutions | Open Source |  Operating System ](http://www.OS-Q.com/N25)
-####  2019-9-9
+### [源圈 OS-Q (Open Source & QA) ](http://www.OS-Q.com)
