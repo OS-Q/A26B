@@ -19,12 +19,12 @@ jobs:
       matrix:
         os: [ubuntu-latest, windows-latest]
         python-version: [3.7]
-        example:
-          - "examples/demo_timer"
-          - "examples/ucosii_demo"
-          - "examples/freertos_demo"
-          - "examples/rtthread_demo"
-          - "examples/rtthread_msh"
+        tests:
+          - "tests/demo_timer"
+          - "tests/ucosii_demo"
+          - "tests/freertos_demo"
+          - "tests/rtthread_demo"
+          - "tests/rtthread_msh"
 
     runs-on: ${{ matrix.os }}
     steps:
@@ -42,4 +42,4 @@ jobs:
           platformio platform install https://github.com/OS-Q/P25.git
       - name: Platformio Build
         run: |
-          platformio run -d ${{ matrix.example }}
+          platformio run -d ${{ matrix.tests }}
