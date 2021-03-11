@@ -8,6 +8,6 @@
 
 ### [简介](https://github.com/OS-Q/E25A/wiki)
 
-[E25A](https://github.com/OS-Q/E25A) 整合 [nuclei-sdk](https://github.com/sipeed/Longduino) 资源
+[E25A](https://github.com/OS-Q/E25A) 整合 [nuclei-sdk](https://github.com/Nuclei-Software/nuclei-sdk) 资源
 
 ### [源圈 OS-Q (Open Source & QA) ](http://www.OS-Q.com)
